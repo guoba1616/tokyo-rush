@@ -2,7 +2,7 @@
 
 An open-world Tokyo island sandbox that runs in your browser. Drive, explore and cause chaos on a living city.
 
-**Play:** https://goba-games.github.io/tokyo-rush/
+**Play:** https://guoba1616.github.io/tokyo-rush/
 
 ## Controls
 WASD move / drive · Mouse look · F enter car · Shift sprint · Space jump / handbrake
@@ -12,3 +12,4 @@ A short tutorial starts the first time you play.
 
 ## Tech
 Single-page three.js game (r149). Works best in Chrome or Edge with a mouse and keyboard.
+
