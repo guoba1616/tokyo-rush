@@ -1,0 +1,82 @@
+[
+  {
+    "key": "city-a",
+    "source": "Kenney_City_Commercial/extracted/Models/GLB format/building-a.glb",
+    "triangles": 1252
+  },
+  {
+    "key": "city-b",
+    "source": "Kenney_City_Commercial/extracted/Models/GLB format/building-c.glb",
+    "triangles": 1195
+  },
+  {
+    "key": "city-c",
+    "source": "Kenney_City_Commercial/extracted/Models/GLB format/building-g.glb",
+    "triangles": 2006
+  },
+  {
+    "key": "tower-a",
+    "source": "Kenney_City_Commercial/extracted/Models/GLB format/building-skyscraper-a.glb",
+    "triangles": 1292
+  },
+  {
+    "key": "tower-b",
+    "source": "Kenney_City_Commercial/extracted/Models/GLB format/building-skyscraper-c.glb",
+    "triangles": 1704
+  },
+  {
+    "key": "tower-c",
+    "source": "Kenney_City_Commercial/extracted/Models/GLB format/building-skyscraper-e.glb",
+    "triangles": 1156
+  },
+  {
+    "key": "house-a",
+    "source": "Kenney_City_Suburban/extracted/Models/GLB format/building-type-a.glb",
+    "triangles": 1174
+  },
+  {
+    "key": "house-b",
+    "source": "Kenney_City_Suburban/extracted/Models/GLB format/building-type-f.glb",
+    "triangles": 1616
+  },
+  {
+    "key": "house-c",
+    "source": "Kenney_City_Suburban/extracted/Models/GLB format/building-type-j.glb",
+    "triangles": 1210
+  },
+  {
+    "key": "factory-a",
+    "source": "Kenney_City_Industrial/extracted/Models/GLB format/building-a.glb",
+    "triangles": 2046
+  },
+  {
+    "key": "factory-b",
+    "source": "Kenney_City_Industrial/extracted/Models/GLB format/building-e.glb",
+    "triangles": 1484
+  },
+  {
+    "key": "container",
+    "source": "Kenney_City_Industrial/extracted/Models/GLB format/shipping-container-a.glb",
+    "triangles": 402
+  },
+  {
+    "key": "dumpster",
+    "source": "Kenney_City_Roads/extracted/Models/GLB format/dumpster.glb",
+    "triangles": 234
+  },
+  {
+    "key": "barrier",
+    "source": "Kenney_City_Roads/extracted/Models/GLB format/construction-barrier.glb",
+    "triangles": 60
+  },
+  {
+    "key": "cone",
+    "source": "Kenney_City_Roads/extracted/Models/GLB format/construction-cone.glb",
+    "triangles": 66
+  },
+  {
+    "key": "stop-sign",
+    "source": "Kenney_City_Roads/extracted/Models/GLB format/road-sign-stop.glb",
+    "triangles": 104
+  }
+]

@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-21",
+  "world_models": 31,
+  "browser_functional_checks": 41,
+  "browser_result": "ALL PASS",
+  "node_geometry_and_weapon_mount_checks": "PASS",
+  "character_animation_checks": "PASS",
+  "files": [
+    {
+      "file": "army-helicopter.glb",
+      "bytes": 160180,
+      "sha256": "348ca3ba19718452a3bcecfcd4a84e631a5ac8f29ae8e2fbf208a0a6b5067c6b"
+    },
+    {
+      "file": "barrier.glb",
+      "bytes": 7944,
+      "sha256": "6d22d0df6bb6542d1cb17e7e78c89237a402d863dfa23554cf8e252499b7bddc"
+    },
+    {
+      "file": "bus.glb",
+      "bytes": 76412,
+      "sha256": "670dae251e1f5ca4d8cc7043944e7448d1ceec72c3e7257d3b2f793b2d46d891"
+    },
+    {
+      "file": "bush.glb",
+      "bytes": 20824,
+      "sha256": "b30dfddca5a1c5e6352942661afad6e9d4ea1c6ad8dda117f677b431b211673b"
+    },
+    {
+      "file": "cafe-chair.glb",
+      "bytes": 12448,
+      "sha256": "a30f00d3e4923fae0465d2aa7eaff82b20a1682427f56b945bcafd5a3cff6031"
+    },
+    {
+      "file": "cafe-table.glb",
+      "bytes": 32116,
+      "sha256": "b747c344c6ddbdfa35977cc136dafd152e8acea222abc86b3d280db0e9d834c3"
+    },
+    {
+      "file": "city-a.glb",
+      "bytes": 143844,
+      "sha256": "ca6af83255afe258362d8f8993bb76b159d62ad115703a6639e156ea5c2a552d"
+    },
+    {
+      "file": "city-b.glb",
+      "bytes": 137348,
+      "sha256": "d4647016a0dddddffc82710530489ad202ea38b3a3c72183959a03a9727d41b5"
+    },
+    {
+      "file": "city-c.glb",
+      "bytes": 229800,
+      "sha256": "b194ae69527ce5b1d63064a1bc8c975dd60869ec3c00a909672f1e1f15629865"
+    },
+    {
+      "file": "cone.glb",
+      "bytes": 8612,
+      "sha256": "1b303d3150bacd447ff49efc037ebfa6e1be1479b23621fe2e949de8e3e0c209"
+    },
+    {
+      "file": "container.glb",
+      "bytes": 46968,
+      "sha256": "fd22cc96859db9806ced59193acdece792a7d0492b097fc24ca758ed500dbacc"
+    },
+    {
+      "file": "dumpster.glb",
+      "bytes": 27788,
+      "sha256": "cb88cacc82a9c2b51910b5449d3cb5a5345ee626456a6fa8b637321a94636ad2"
+    },
+    {
+      "file": "factory-a.glb",
+      "bytes": 234364,
+      "sha256": "a72b45d21c547c5bc972748d95d11cdb68043adf4aac11506e8c811defa6bff8"
+    },
+    {
+      "file": "factory-b.glb",
+      "bytes": 170296,
+      "sha256": "d96994dbc09e2b3ea36387619f3c78b34d5605ce1c1570c67cd830faaf2a4c36"
+    },
+    {
+      "file": "helicopter.glb",
+      "bytes": 179112,
+      "sha256": "c480972aa4ec6aaa63cff900e2635dc01be045c5b271cb171088fe8edb5ab677"
+    },
+    {
+      "file": "house-a.glb",
+      "bytes": 134952,
+      "sha256": "4674f70a6c9022556d9441315c2d3d541f19a6d035108ff91c864e3c7f6897d8"
+    },
+    {
+      "file": "house-b.glb",
+      "bytes": 185340,
+      "sha256": "555f323e273d231ee7b697ffeb9244e1e5136e2cf2ae43529acdd159f6966f05"
+    },
+    {
+      "file": "house-c.glb",
+      "bytes": 139056,
+      "sha256": "b9fac39d3784289cdb4f025005430d00317ba414c8a71eb1c5ccb5244026c886"
+    },
+    {
+      "file": "houseplant.glb",
+      "bytes": 14796,
+      "sha256": "3f7876b16e1a2d8d55e0d03eaf36ce01ecd4c2ebc7ec2a51a1e81a35dfe838eb"
+    },
+    {
+      "file": "palm.glb",
+      "bytes": 99800,
+      "sha256": "711b0a5eca2e0ae84932801f66645365e6f080e4aea4037d722775770d90b258"
+    },
+    {
+      "file": "pistol.glb",
+      "bytes": 57348,
+      "sha256": "c63cd69afdfacd193bfe67bb0ac029dbc07ae307676111582d11bb13fa98b67f"
+    },
+    {
+      "file": "rifle.glb",
+      "bytes": 62708,
+      "sha256": "877896f723667dc8c95d18b211cb31c75304b5f49a1b959caf30f357d174af2c"
+    },
+    {
+      "file": "rock.glb",
+      "bytes": 4996,
+      "sha256": "9a20aec7464525ca6ab14680693c91e8fefbfa0b7915845efa91429717ef6a82"
+    },
+    {
+      "file": "shotgun.glb",
+      "bytes": 60332,
+      "sha256": "3cba07745a5c304a20d9497dec0a32bc62cad57af43d8cf0cbb5be94a152119d"
+    },
+    {
+      "file": "smg.glb",
+      "bytes": 56152,
+      "sha256": "d83a9e07e72d312e8a50d5c05ebf5ba9a8980cbec089cb2c4c0c693e31b6982f"
+    },
+    {
+      "file": "stop-sign.glb",
+      "bytes": 12972,
+      "sha256": "942b47f8448440bf5534e47cd1e8583e2487c1c8c8de5e49fb87f92e365ae258"
+    },
+    {
+      "file": "tower-a.glb",
+      "bytes": 148400,
+      "sha256": "1e7f2042ddb589a01bdd7768d343ca4b12516e0e0aadf37ed1dc8bc60588e531"
+    },
+    {
+      "file": "tower-b.glb",
+      "bytes": 195372,
+      "sha256": "a05379e6dfc56bba2a18d55cf0efb021218f63cfe29a7d396810cd4807dc8948"
+    },
+    {
+      "file": "tower-c.glb",
+      "bytes": 132900,
+      "sha256": "fc615e27d2c07b5d4ad37762016b570e138b8420751532eb1350639bcba1c6d4"
+    },
+    {
+      "file": "tree-a.glb",
+      "bytes": 157932,
+      "sha256": "ebe32296e939a238f31b4029753a4dbe96d3f4b817d10429a05d146d01a575ad"
+    },
+    {
+      "file": "tree-b.glb",
+      "bytes": 161392,
+      "sha256": "9ced77fd0126ef24e886e5b9ef3f1a9a917a976d85045b0ccfea442de4627f7c"
+    }
+  ]
+}

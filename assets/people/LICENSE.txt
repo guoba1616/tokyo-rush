@@ -1,0 +1,7 @@
+Quaternius Ultimate Modular Men / Ultimate Modular Women
+Author: Quaternius
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+https://quaternius.com/packs/ultimatemodularcharacters.html
+https://quaternius.com/packs/ultimatemodularwomen.html
+Modified: retained gameplay animation clips, repacked as GLB.

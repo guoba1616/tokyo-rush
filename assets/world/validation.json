@@ -1,0 +1,284 @@
+{
+  "result": "PASS",
+  "models": [
+    {
+      "key": "barrier",
+      "triangles": 60,
+      "size": [
+        0.225,
+        0.13,
+        0.135
+      ]
+    },
+    {
+      "key": "bus",
+      "triangles": 1530,
+      "size": [
+        1.745,
+        1.676,
+        4.086
+      ]
+    },
+    {
+      "key": "bush",
+      "triangles": 364,
+      "size": [
+        1.328,
+        1.242,
+        1.69
+      ]
+    },
+    {
+      "key": "cafe-chair",
+      "triangles": 216,
+      "size": [
+        0.762,
+        1.768,
+        0.825
+      ]
+    },
+    {
+      "key": "cafe-table",
+      "triangles": 592,
+      "size": [
+        1.941,
+        1.147,
+        1.941
+      ]
+    },
+    {
+      "key": "city-a",
+      "triangles": 1252,
+      "size": [
+        0.884,
+        1.293,
+        0.94
+      ]
+    },
+    {
+      "key": "city-b",
+      "triangles": 1195,
+      "size": [
+        0.884,
+        0.893,
+        1.09
+      ]
+    },
+    {
+      "key": "city-c",
+      "triangles": 2006,
+      "size": [
+        0.97,
+        1.693,
+        0.922
+      ]
+    },
+    {
+      "key": "cone",
+      "triangles": 66,
+      "size": [
+        0.075,
+        0.094,
+        0.075
+      ]
+    },
+    {
+      "key": "container",
+      "triangles": 402,
+      "size": [
+        0.823,
+        0.348,
+        0.373
+      ]
+    },
+    {
+      "key": "dumpster",
+      "triangles": 234,
+      "size": [
+        0.275,
+        0.209,
+        0.37
+      ]
+    },
+    {
+      "key": "factory-a",
+      "triangles": 2046,
+      "size": [
+        2.084,
+        1.47,
+        1.242
+      ]
+    },
+    {
+      "key": "factory-b",
+      "triangles": 1484,
+      "size": [
+        1.684,
+        1.65,
+        1.29
+      ]
+    },
+    {
+      "key": "house-a",
+      "triangles": 1174,
+      "size": [
+        1.3,
+        0.834,
+        1.028
+      ]
+    },
+    {
+      "key": "house-b",
+      "triangles": 1616,
+      "size": [
+        1.428,
+        1.138,
+        1.406
+      ]
+    },
+    {
+      "key": "house-c",
+      "triangles": 1210,
+      "size": [
+        1.37,
+        1.038,
+        0.916
+      ]
+    },
+    {
+      "key": "houseplant",
+      "triangles": 245,
+      "size": [
+        0.769,
+        0.717,
+        0.694
+      ]
+    },
+    {
+      "key": "palm",
+      "triangles": 1772,
+      "size": [
+        2.877,
+        4.471,
+        2.609
+      ]
+    },
+    {
+      "key": "pistol",
+      "triangles": 1040,
+      "size": [
+        1.819,
+        1.162,
+        0.323
+      ]
+    },
+    {
+      "key": "rifle",
+      "triangles": 1256,
+      "size": [
+        3.105,
+        1.26,
+        0.196
+      ]
+    },
+    {
+      "key": "rock",
+      "triangles": 70,
+      "size": [
+        0.485,
+        0.878,
+        0.467
+      ]
+    },
+    {
+      "key": "shotgun",
+      "triangles": 1270,
+      "size": [
+        5.215,
+        0.943,
+        0.247
+      ]
+    },
+    {
+      "key": "smg",
+      "triangles": 1164,
+      "size": [
+        2.771,
+        1.709,
+        0.319
+      ]
+    },
+    {
+      "key": "stop-sign",
+      "triangles": 104,
+      "size": [
+        0.138,
+        0.494,
+        0.078
+      ]
+    },
+    {
+      "key": "tower-a",
+      "triangles": 1292,
+      "size": [
+        1.36,
+        2.88,
+        1.36
+      ]
+    },
+    {
+      "key": "tower-b",
+      "triangles": 1704,
+      "size": [
+        1.28,
+        4.08,
+        1.388
+      ]
+    },
+    {
+      "key": "tower-c",
+      "triangles": 1156,
+      "size": [
+        1.295,
+        4.08,
+        1.242
+      ]
+    },
+    {
+      "key": "tree-a",
+      "triangles": 2888,
+      "size": [
+        1.889,
+        2.481,
+        2.773
+      ]
+    },
+    {
+      "key": "tree-b",
+      "triangles": 2952,
+      "size": [
+        1.663,
+        3.123,
+        2.541
+      ]
+    },
+    {
+      "key": "army-helicopter",
+      "triangles": 1684,
+      "size": [
+        11.346,
+        3.54,
+        16.144
+      ]
+    },
+    {
+      "key": "helicopter",
+      "triangles": 1930,
+      "size": [
+        21.956,
+        8.002,
+        25.384
+      ]
+    }
+  ]
+}

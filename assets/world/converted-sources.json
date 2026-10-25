@@ -1,0 +1,67 @@
+[
+  {
+    "key": "pistol",
+    "source": "Quaternius_Guns/Pistol_1.obj",
+    "bytes": 57348
+  },
+  {
+    "key": "smg",
+    "source": "Quaternius_Guns/SubmachineGun_1.obj",
+    "bytes": 56152
+  },
+  {
+    "key": "shotgun",
+    "source": "Quaternius_Guns/Shotgun_1.obj",
+    "bytes": 60332
+  },
+  {
+    "key": "rifle",
+    "source": "Quaternius_Guns/AssaultRifle_1.obj",
+    "bytes": 62708
+  },
+  {
+    "key": "bus",
+    "source": "Quaternius_Public_Transport/OBJ/Bus.obj",
+    "bytes": 76412
+  },
+  {
+    "key": "tree-a",
+    "source": "Quaternius_Nature/CommonTree_1.obj",
+    "bytes": 157932
+  },
+  {
+    "key": "tree-b",
+    "source": "Quaternius_Nature/CommonTree_2.obj",
+    "bytes": 161392
+  },
+  {
+    "key": "palm",
+    "source": "Quaternius_Nature/PalmTree_1.obj",
+    "bytes": 99800
+  },
+  {
+    "key": "bush",
+    "source": "Quaternius_Nature/Bush_1.obj",
+    "bytes": 20824
+  },
+  {
+    "key": "rock",
+    "source": "Quaternius_Nature/Rock_1.obj",
+    "bytes": 4996
+  },
+  {
+    "key": "cafe-table",
+    "source": "Quaternius_Interior/OBJ/Table_RoundSmall.obj",
+    "bytes": 32116
+  },
+  {
+    "key": "cafe-chair",
+    "source": "Quaternius_Interior/OBJ/Chair_1.obj",
+    "bytes": 12448
+  },
+  {
+    "key": "houseplant",
+    "source": "Quaternius_Interior/OBJ/Houseplant_1.obj",
+    "bytes": 14796
+  }
+]
